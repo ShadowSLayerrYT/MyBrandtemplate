@@ -1,0 +1,36 @@
+.testimonials {
+  padding: 50px;
+  background-color: #141414c9;
+  text-align: center;
+}
+
+.testimonials h2 {
+  margin-bottom: 30px;
+  font-size: 2em;
+}
+
+.testimonial {
+  display: inline-block;
+  margin: 20px;
+  max-width: 400px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #2a2929;
+}
+
+.testimonial img {
+  width: 100px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.testimonial p {
+  font-style: italic;
+  color: #ffffff;
+}
+
+.testimonial h4 {
+  margin-top: 10px;
+  color: #ffffff;
+}

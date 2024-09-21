@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background-color: #111; /* Dark background for contrast */
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 100;
+  font-family: 'Poppins', sans-serif; /* Apply Poppins font */
+  transition: background-color 0.3s ease; /* Smooth background transition */
+}
+
+.logo h2 {
+  color: #00b894; /* Brand color */
+  font-size: 1.8em;
+  font-weight: 600;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
+  font-size: 1.1em;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.nav-links li a:hover {
+  color: #00b894; /* Highlight link on hover */
+  transform: scale(1.1); /* Slightly enlarge link on hover */
+}
+
+.nav-links li a:active {
+  color: #55efc4; /* Lighter green on click */
+}
+
+/* Sticky Navbar effect when scrolling */
+.navbar.scrolled {
+  background-color: rgba(17, 17, 17, 0.9); /* Slight transparency when scrolled */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 10px 20px;
+  }
+
+  .nav-links {
+    gap: 20px;
+  }
+
+  .logo h2 {
+    font-size: 1.5em;
+  }
+
+  .nav-links li a {
+    font-size: 1em;
+  }
+}

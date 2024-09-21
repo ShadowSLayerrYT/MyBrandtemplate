@@ -1,0 +1,58 @@
+.footer {
+  background-color: #ffffff; /* Change background to white */
+  padding: 40px 20px;
+  color: #333; /* Darker text for contrast */
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  z-index: 10;
+  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.footer p {
+  margin: 0;
+  padding: 10px 0;
+}
+
+.footer-links {
+  margin: 20px 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-links a {
+  color: #00b894; /* Accent color for the links */
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #009473; /* Darker shade on hover */
+}
+
+.footer-contact {
+  margin-top: 20px;
+}
+
+.footer-contact a {
+  color: #00b894; /* Accent color */
+  text-decoration: none;
+}
+
+.footer-contact a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact p {
+  margin: 0;
+  padding: 10px 0;
+  font-size: 1.1em;
+}
+
+.footer-copyright {
+  color: #333; /* Ensure text contrast against white background */
+}
+
