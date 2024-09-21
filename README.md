@@ -1,6 +1,6 @@
-# 🖤 MyBrand Homepage - Black Themed Landing Page 🌐
+# 🖤 MyBrand Homepage - Custom Themed Landing Page 🌐
 
-Welcome to **MyBrand**! This is a sleek, black-themed landing page built using **ReactJS** and **Framer Motion** with beautiful animations and transitions. Perfect for showcasing your brand with style! 🎨✨
+Welcome to **MyBrand**! This is a sleek, landing page built using **ReactJS** and **Framer Motion** with beautiful animations and transitions. Perfect for showcasing your brand with style! 🎨✨
 
 ## 🚀 Live Demo
 Check out the live demo [here](https://your-live-demo-link.com)! 🎉
@@ -44,7 +44,7 @@ Copy code
 npm start
 You should now see MyBrand live on http://localhost:3000 in your browser! 🎉
 
-#💡 Tech Stack:
+# 💡 Tech Stack:
 
 ⚛️ ReactJS: The power of component-based design!
 🎬 Framer Motion: For those buttery-smooth animations.
@@ -72,11 +72,11 @@ Your Name - The mastermind behind the project! 🧠💡
 
 If you have any questions, feel free to reach out to us at:
 
-#⭐ Show Your Support
+# ⭐ Show Your Support
 
 If you like this project, don't forget to give it a star ⭐ on GitHub!
 
-#📝 License
+# 📝 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
