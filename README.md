@@ -3,7 +3,7 @@
 Welcome to **MyBrand**! This is a sleek, landing page built using **ReactJS** and **Framer Motion** with beautiful animations and transitions. Perfect for showcasing your brand with style! 🎨✨
 
 ## 🚀 Live Demo
-Check out the live demo [here](https://your-live-demo-link.com)! 🎉
+Check out the live demo [here](https://my-brandtemplate.vercel.app/)! 🎉
 
 ---
 
