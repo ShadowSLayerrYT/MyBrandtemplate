@@ -27,16 +27,17 @@ Follow these steps to run the project locally:
    git clone https://github.com/your-username/mybrand-homepage.git
 Navigate into the project folder 📂
 
-bash
+``` bash
 Copy code
 cd mybrand-homepage
 Install dependencies 📦
+```
 
-bash
+``` bash
 Copy code
 npm install
 npm install framer-motion
-
+```
 Run the development server 🚀
 
 bash
