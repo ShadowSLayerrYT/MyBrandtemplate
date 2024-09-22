@@ -28,7 +28,6 @@ Follow these steps to run the project locally:
 Navigate into the project folder 📂
 
 ``` bash
-Copy code
 cd mybrand-homepage
 ```
 
@@ -36,14 +35,14 @@ Install dependencies 📦
 
 
 ``` bash
-Copy code
+
 npm install
 npm install framer-motion
 ```
 Run the development server 🚀
 
 ``` bash
-Copy code
+
 npm start
 ```
 
@@ -55,19 +54,6 @@ You should now see MyBrand live on http://localhost:3000 in your browser! 🎉
 🎬 Framer Motion: For those buttery-smooth animations.
 💅 CSS: Custom styles to create that dark and minimalistic vibe.
 📸 Unsplash: Beautiful, high-quality images to complement the design.
-🎨 Want to Contribute?
-We'd love your help to make MyBrand even better! 🛠️
-
-Fork the repository 🍴
-
-Create a new branch 🔧
-
-bash
-Copy code
-git checkout -b feature/amazing-new-feature
-Make your changes 🎨
-Submit a pull request 🚀
-Feel free to open issues or suggest features!
 
 # 📧 Contact
 
