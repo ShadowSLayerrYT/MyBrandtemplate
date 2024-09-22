@@ -30,8 +30,10 @@ Navigate into the project folder 📂
 ``` bash
 Copy code
 cd mybrand-homepage
-Install dependencies 📦
 ```
+
+Install dependencies 📦
+
 
 ``` bash
 Copy code
@@ -40,9 +42,11 @@ npm install framer-motion
 ```
 Run the development server 🚀
 
-bash
+``` bash
 Copy code
 npm start
+```
+
 You should now see MyBrand live on http://localhost:3000 in your browser! 🎉
 
 # 💡 Tech Stack:
