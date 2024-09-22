@@ -9,7 +9,7 @@ Check out the live demo [here](https://my-brandtemplate.vercel.app/)! 🎉
 
 ## ✨ Features
 
-- 🎨 **Black-Themed Design**: A clean, modern black aesthetic for a sleek brand image.
+- 🎨 **Custom-Themed Design**: A clean, modern black aesthetic for a sleek brand image.
 - 🎬 **Framer Motion Animations**: Smooth, interactive animations for a professional touch.
 - 🖼️ **Dynamic Hero Section**: Cool transitions and animations with product previews.
 - 🛠️ **Responsive Design**: Fully responsive, adjusts perfectly on all devices.
