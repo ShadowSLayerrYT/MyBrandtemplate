@@ -64,13 +64,9 @@ Make your changes 🎨
 Submit a pull request 🚀
 Feel free to open issues or suggest features!
 
-# 👥 Contributors
-
-Your Name - The mastermind behind the project! 🧠💡
-
 # 📧 Contact
 
-If you have any questions, feel free to reach out to us at:
+If you have any questions, feel free to reach out to us at:shadowslayerryt@gmail.com
 
 # ⭐ Show Your Support
 
